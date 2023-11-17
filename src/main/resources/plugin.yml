@@ -1,7 +1,7 @@
 name: DisableChat
 version: ${project.version}
 main: com.saigonmc.plugins.disablechat.DisableChat
-api-version: 1.19
+api-version: 1.16
 prefix: DisableChat
 description: Plugin that disables chat
 commands:
