@@ -1,4 +1,4 @@
-package net.beocraft.plugins.disablechat;
+package com.saigonmc.plugins.disablechat;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;

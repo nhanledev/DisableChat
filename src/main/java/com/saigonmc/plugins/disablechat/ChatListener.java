@@ -1,4 +1,4 @@
-package net.beocraft.plugins.disablechat;
+package com.saigonmc.plugins.disablechat;
 
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.entity.Player;
